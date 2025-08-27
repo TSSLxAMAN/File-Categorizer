@@ -1,0 +1,31 @@
+# 📂 Django File Organizer
+
+A simple **Django + Bootstrap** web application to organize and visualize your local folders.  
+Users can upload a folder (or enter its path) and the app will **analyze and categorize files** into structured folders.  
+The UI shows an **accordion-style preview** of how the folder will look before changes are applied.  
+
+---
+
+## 🚀 Features
+- Upload a folder or provide a local path.  
+- Analyze folder structure without modifying it.  
+- Preview organized files in a **clean accordion UI**.  
+- One-click button to **apply changes** and organize files.  
+- Smart check: avoids duplicating folders if run multiple times.  
+- Built with **Django + Bootstrap**.  
+
+---
+
+## 🛠️ Requirements
+- Python **3.9+**  
+- Django **5.x** (latest recommended)  
+- Bootstrap (via CDN already included in templates)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/TSSL/django-file-organizer.git
+   cd django-file-organizer
