@@ -27,5 +27,6 @@ The UI shows an **accordion-style preview** of how the folder will look before c
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/TSSL/django-file-organizer.git
+   git https://github.com/TSSLxAMAN/File-Categorizer.git
    cd django-file-organizer
+   py manage.py runserver
